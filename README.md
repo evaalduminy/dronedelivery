@@ -189,13 +189,11 @@ Contributions are welcome! Please:
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **evaalduminy** - *Initial work* - [YourGitHub](https://github.com/evaalduminy)
 
 ## 🙏 Acknowledgments
 
@@ -205,8 +203,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Contact
 
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/drone-delivery](https://github.com/yourusername/drone-delivery)
+- Email: evaalduminy@gmail.com
+- Project Link: [https://github.com/evaalduminy/dronedelivery](https://github.com/evaalduminy/dronedelivery)
 
 ---
 
